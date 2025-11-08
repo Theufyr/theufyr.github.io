@@ -1,6 +1,6 @@
 **[🐻‍❄️ Ice Bear is in. Yeah! 🐻‍❄️](https://theufyr.github.io "Theufyr")**
 ===
-[https://theufyr.github.io](https://github.com/Theufyr "Theufyr")
+[Theufyr GitHub](https://github.com/Theufyr "GitHub")
 
 ---
 **🤯 I always turn my interests into self-taught experiences :**
