@@ -1,12 +1,12 @@
 **[🐻‍❄️ Ice Bear is in. Yeah! 🐻‍❄️](https://theufyr.github.io "Theufyr")**
 ===
 ---
-**🤯 I always turn my interests into self-taught experience :**
+**🤯 I always turn my interests into self-taught experiences :**
 
-* 🎲 game designer since childhood
-* ✍️ graphic artist since 1985
-* 🎹 music composer & producer since 1990
 * 🌐 web developer & community manager since 2000
+* 🎹 music composer & producer since 1990
+* ✍️ graphic artist since 1985
+* 🎲 game designer since childhood
 
 ---
 **🚸Ada Tech Scool student**
