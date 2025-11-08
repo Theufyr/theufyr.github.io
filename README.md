@@ -1,5 +1,7 @@
 **[🐻‍❄️ Ice Bear is in. Yeah! 🐻‍❄️](https://theufyr.github.io "Theufyr")**
 ===
+[https://theufyr.github.io](https://github.com/Theufyr "Theufyr")
+
 ---
 **🤯 I always turn my interests into self-taught experiences :**
 
