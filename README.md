@@ -63,3 +63,5 @@ Ultimately into (_really_) social works :
 (to find my own _Golden Path_ in life & among humans)  
 So I'm a Butlerian jihadist despite being into tech at the age of AI, eh, eh  
 _"Thou shalt not make a machine in the likeness of a human mind"_
+
+
