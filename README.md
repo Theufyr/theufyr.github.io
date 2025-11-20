@@ -23,7 +23,7 @@
             <summary>Exercices</summary>
             <ul>
               <li><a href="https://theufyr.alwaysdata.net/kata1/">Kata #1</a></li>
-              <li><a href="https://theufyr.alwaysdata.net/doomle/">Jeu des allumettes</a></li>
+              <li><a href="https://theufyr.alwaysdata.net/allumettes/">Jeu des allumettes</a></li>
               <li><a href="https://theufyr.alwaysdata.net/morse/">Parlez-vous le morse ?</a></li>
             </ul>
           </details>
