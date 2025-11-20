@@ -2,6 +2,38 @@
 ===
 [Theufyr GitHub](https://github.com/Theufyr "GitHub")
 
+<table border="none" style="text-align:left">
+    <thead>
+      <tr>
+        <td>
+        </td>
+        <td>
+          <details>
+            <summary>Projects</summary>
+            <ul>
+              <li><a href="https://theufyr.alwaysdata.net/doomle/">Doomle</a></li>
+              <li><a href="https://theufyr.alwaysdata.net/divinequizz/">Divine Quizz</a></li>
+            </ul>
+          </details>
+        </td>
+        <td>
+        </td>
+        <td>
+          <details>
+            <summary>Exercices</summary>
+            <ul>
+              <li><a href="https://theufyr.alwaysdata.net/kata1/">Kata #1</a></li>
+              <li><a href="https://theufyr.alwaysdata.net/doomle/">Jeu des allumettes</a></li>
+              <li><a href="https://theufyr.alwaysdata.net/morse/">Parlez-vous le morse ?</a></li>
+            </ul>
+          </details>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </thead>
+</table>
+
 ---
 **🤯 I always turn my interests into self-taught experiences :**
 
