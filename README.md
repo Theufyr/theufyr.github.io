@@ -13,6 +13,8 @@
             <ul>
               <li><a href="https://theufyr.alwaysdata.net/doomle/">Doomle</a></li>
               <li><a href="https://theufyr.alwaysdata.net/divinequizz/">Divine Quizz</a></li>
+              <li><a href="https://github.com/Theufyr/xo-ghl_c17">Dataviz</a></li>
+              <li><a href="https://github.com/Theufyr/xo-ghl_c22">Adaopte</a></li>
             </ul>
           </details>
         </td>
@@ -22,9 +24,23 @@
           <details>
             <summary>Exercices</summary>
             <ul>
-              <li><a href="https://theufyr.alwaysdata.net/kata1/">Kata #1</a></li>
+              <li><a href="https://theufyr.github.io/mastermind/">Mastermind</a></li>
               <li><a href="https://theufyr.alwaysdata.net/allumettes/">Jeu des allumettes</a></li>
               <li><a href="https://theufyr.alwaysdata.net/morse/">Parlez-vous le morse ?</a></li>
+            </ul>
+          </details>
+        </td>
+        <td>
+        </td>
+        <td>
+          <details>
+            <summary>Previous Works</summary>
+            <ul>
+              <li><a href="https://dynartweb.com/">DynArtWeb (previous portfolio)</a></li>
+              <li><a href="https://ramasseurs.com/demo/">Ramasseurs de Champignons (online game)</a></li>
+              <li><a href="https://interpheric.com/">] i n t e r p h e r i c [ (multi-artistic portal)</a></li>
+              <li><a href="https://hyphenmusic.com/">hyphen (main musical entity)</a></li>
+              <li><a href="https://cybears.org">Cybears (community portal)</a></li>
             </ul>
           </details>
         </td>
@@ -57,11 +73,5 @@ Ultimately into (_really_) social works :
 - art & games
 
 ---
-**🤪 Fun fact**
-
-**"DUNE"** (© Frank Herbert) is my Bible  
-(to find my own _Golden Path_ in life & among humans)  
-So I'm a Butlerian jihadist despite being into tech at the age of AI, eh, eh  
-_"Thou shalt not make a machine in the likeness of a human mind"_
 
 
