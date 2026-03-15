@@ -24,7 +24,7 @@
           <details>
             <summary>Exercices</summary>
             <ul>
-              <li><a href="https://theufyr.github.io/mastermind/">Mastermind</a></li>
+              <li><a href="https://theufyr.alwaysdata.net/mastermind/">Mastermind</a></li>
               <li><a href="https://theufyr.alwaysdata.net/allumettes/">Jeu des allumettes</a></li>
               <li><a href="https://theufyr.alwaysdata.net/morse/">Parlez-vous le morse ?</a></li>
             </ul>
