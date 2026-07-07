@@ -9,12 +9,12 @@
         </td>
         <td>
           <details>
-            <summary>Projects</summary>
+            <summary>School Projects</summary>
             <ul>
               <li><a href="https://theufyr.alwaysdata.net/doomle/">Doomle</a></li>
               <li><a href="https://theufyr.alwaysdata.net/divinequizz/">Divine Quizz</a></li>
-              <li><a href="https://github.com/Theufyr/xo-ghl_c17">Dataviz</a></li>
-              <li><a href="https://github.com/Theufyr/xo-ghl_c22">Adaopte</a></li>
+              <li><a href="https://theufyr.alwaysdata.net/dataviz/">Dataviz</a></li>
+              <li><a href="https://theufyr.alwaysdata.net/adaopte/">Adaopte</a></li>
             </ul>
           </details>
         </td>
@@ -22,7 +22,7 @@
         </td>
         <td>
           <details>
-            <summary>Exercices</summary>
+            <summary>School Exercices</summary>
             <ul>
               <li><a href="https://theufyr.alwaysdata.net/mastermind/">Mastermind</a></li>
               <li><a href="https://theufyr.alwaysdata.net/allumettes/">Jeu des allumettes</a></li>
@@ -59,10 +59,10 @@
 * 🎲 game designer since childhood
 
 ---
-**🚸Ada Tech Scool student**
+**🚸Student**
 
 Back to code, I update and clean my knowledge.
-And I learn a lot more, thanks to this great family!
+And I learn a lot more, thanks to a great family of devs!
 
 ---
 **🚧Work in progress**
