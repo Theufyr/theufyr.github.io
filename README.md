@@ -9,12 +9,26 @@
         </td>
         <td>
           <details>
+            <summary>Previous Works</summary>
+            <ul>
+              <li><a href="https://dynartweb.com/">DynArtWeb (previous portfolio)</a></li>
+              <li><a href="https://ramasseurs.com/demo/">Ramasseurs de Champignons (online game)</a></li>
+              <li><a href="https://interpheric.com/">] i n t e r p h e r i c [ (multi-artistic portal)</a></li>
+              <li><a href="https://hyphenmusic.com/">hyphen (main musical entity)</a></li>
+              <li><a href="https://cybears.org">Cybears (community portal)</a></li>
+            </ul>
+          </details>
+        </td>
+        <td>
+        </td>
+        <td>
+          <details>
             <summary>School Projects</summary>
             <ul>
-              <li><a href="https://theufyr.alwaysdata.net/doomle/">Doomle</a></li>
-              <li><a href="https://theufyr.alwaysdata.net/divinequizz/">Divine Quizz</a></li>
-              <li><a href="https://theufyr.alwaysdata.net/dataviz/">Dataviz</a></li>
-              <li><a href="https://theufyr.alwaysdata.net/adaopte/">Adaopte</a></li>
+              <li><a href="https://theufyr.com/doomle/">Doomle</a></li>
+              <li><a href="https://theufyr.com/divine/">Divine Quizz</a></li>
+              <li><a href="https://theufyr.com/dataviz/">Dataviz</a></li>
+              <li><a href="https://theufyr.com/adaopte/">Adaopte</a></li>
             </ul>
           </details>
         </td>
@@ -24,23 +38,9 @@
           <details>
             <summary>School Exercices</summary>
             <ul>
-              <li><a href="https://theufyr.alwaysdata.net/mastermind/">Mastermind</a></li>
-              <li><a href="https://theufyr.alwaysdata.net/allumettes/">Jeu des allumettes</a></li>
-              <li><a href="https://theufyr.alwaysdata.net/morse/">Parlez-vous le morse ?</a></li>
-            </ul>
-          </details>
-        </td>
-        <td>
-        </td>
-        <td>
-          <details>
-            <summary>Previous Works</summary>
-            <ul>
-              <li><a href="https://dynartweb.com/">DynArtWeb (previous portfolio)</a></li>
-              <li><a href="https://ramasseurs.com/demo/">Ramasseurs de Champignons (online game)</a></li>
-              <li><a href="https://interpheric.com/">] i n t e r p h e r i c [ (multi-artistic portal)</a></li>
-              <li><a href="https://hyphenmusic.com/">hyphen (main musical entity)</a></li>
-              <li><a href="https://cybears.org">Cybears (community portal)</a></li>
+              <li><a href="https://theufyr.com/mastermind/">Mastermind</a></li>
+              <li><a href="https://theufyr.com/allumettes/">Jeu des allumettes</a></li>
+              <li><a href="https://theufyr.com/morse/">Parlez-vous le morse ?</a></li>
             </ul>
           </details>
         </td>
